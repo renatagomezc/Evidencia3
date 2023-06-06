@@ -9,7 +9,6 @@ Original file is located at
 
 import pandas as pd
 from pandas import Series, DataFrame
-import seaborn as sns
 import numpy as np
 from datetime import date, time, datetime, timedelta
 import altair as alt
